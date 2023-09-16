@@ -1,4 +1,4 @@
-# Oobabooga text-webui and Automatic1111 Docker-files
+# Oobabooga Text-Webui and Automatic1111 Docker-files
 
 
 # Project Setup Guide
