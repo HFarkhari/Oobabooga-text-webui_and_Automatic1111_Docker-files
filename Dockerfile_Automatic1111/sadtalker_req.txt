@@ -1,0 +1,22 @@
+ffmpeg
+face_alignment 
+imageio 
+imageio-ffmpeg 
+librosa 
+numba 
+resampy
+pydub 
+scipy 
+kornia 
+tqdm 
+yacs 
+pyyaml 
+joblib 
+scikit-image 
+basicsr
+facexlib 
+gfpgan 
+av 
+safetensors
+
+trimesh TTS
