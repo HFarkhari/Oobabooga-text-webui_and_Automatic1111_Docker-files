@@ -1,0 +1,76 @@
+aiofiles
+fastapi
+gradio_client
+gradio==3.43.2
+xformers
+
+# plugins
+elevenlabs
+SpeechRecognition
+openai-whisper
+soundfile
+ffmpeg
+
+#superbooga
+beautifulsoup4
+chromadb
+posthog
+sentence_transformers
+lxml
+
+num2words
+omegaconf
+pydub
+PyYAML
+
+
+accelerate
+colorama
+datasets
+einops
+markdown
+numpy
+optimum
+pandas
+peft
+Pillow
+pyyaml
+requests
+safetensors
+transformers
+scipy
+sentencepiece
+tensorboard
+tqdm
+wandb
+
+bitsandbytes
+
+#torch worked with cu117, not cu118
+
+# AutoGPTQ
+https://github.com/PanQiWei/AutoGPTQ/releases/download/v0.4.2/auto_gptq-0.4.2+cu117-cp310-cp310-linux_x86_64.whl
+
+# ExLlama
+https://github.com/jllllll/exllama/releases/download/0.0.17/exllama-0.0.17+cu117-cp310-cp310-linux_x86_64.whl
+
+# llama-cpp-python without GPU support
+llama-cpp-python
+
+# llama-cpp-python with GGML support
+https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/cpu/llama_cpp_python_ggml-0.1.78+cpuavx2-cp310-cp310-linux_x86_64.whl
+
+
+https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/textgen-webui/llama_cpp_python_ggml_cuda-0.1.78+cu117-cp310-cp310-linux_x86_64.whl
+
+
+https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/textgen-webui/llama_cpp_python_cuda-0.1.84+cu117-cp310-cp310-linux_x86_64.whl
+
+
+# GPTQ-for-LLaMa
+https://github.com/jllllll/GPTQ-for-LLaMa-CUDA/releases/download/0.1.0/gptq_for_llama-0.1.0+cu117-cp310-cp310-linux_x86_64.whl
+
+
+# ctransformers
+https://github.com/jllllll/ctransformers-cuBLAS-wheels/releases/download/AVX2/ctransformers-0.2.27+cu117-py3-none-any.whl
+
